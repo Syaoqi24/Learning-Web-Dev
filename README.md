@@ -1,6 +1,3 @@
 # Learning-Web-Dev
 
-This is my learning web progress at Dicoding.com
-"Belajar Dasar Pemrograman Web"
-
-Dilakukan dengan sadar dalam proses pembelajaran dan kesalahan yang dilakukan karena masih dalam tahapan terendah, saya sangat mengapresiasi masukan dan kritik dari para praktisi yang sudah lebih mahir dari saya
+Bagian dari progress belajar saya di kelas Belajar Dasar Pemrograman Web Dicoding. Feedback dan kritik sangat saya apresiasi untuk pengembangan skill ke depannya.
