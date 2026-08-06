@@ -63,3 +63,5 @@ index.php, login.php, logout.php, admin/*.php   # thin controllers
 
 PHP (mysqli, OOP), MySQL, vanilla HTML/CSS/JS (search, sort, lightbox on
 the storefront page).
+
+project by @Syaoqi24
